@@ -1,1 +1,75 @@
+body{
+    background: rgb(0, 0, 0);
+}
 
+
+#significado 
+{
+    height: 120px;
+    width: 799px;
+    background: rgb(202, 12, 129);
+    float: left;
+    position: absolute;
+    top: 1030px;
+    left: 5%;
+    border-radius: 8px;
+
+}
+#importancia
+{
+    height: 152px;
+    width:799px;
+    background: rgb(47, 148, 0);
+    position: relative;
+    top: 400px;
+    left: 5%;
+    border-radius: 5px;
+}
+#popularidad
+{
+    height: 170px;
+    width: 450px;
+    background: rgb(94, 28, 100);
+    top: 979px;
+    left: 64.2%;
+    border-radius: 2px;
+    position: absolute;
+    
+}
+
+#creacion
+{
+    width: 799px;
+    background: rgb(214, 78, 24);
+    position: absolute;
+    top: 710px;
+    left: 5%;
+    border-radius: 4px;
+}
+
+#deporte
+{
+    width: 800px;
+    background: rgb(135, 68, 141);
+    float: left;
+    position: absolute;
+    top: 830px;
+    left: 5%;
+    border-radius: 2px;
+
+}
+.borra{
+    clear:both;
+}
+
+
+#futuro
+{
+    height: 275px;
+    width: 450px;
+    background: rgb(11, 112, 126);
+    position: absolute;
+    top: 710px;
+    left: 64.2%;
+    border-radius: 3px;
+}
